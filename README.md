@@ -135,17 +135,6 @@ ee.Authenticate()
 ee.Initialize(project="your-project-id", opt_url="https://earthengine-highvolume.googleapis.com")
 ```
 
-### Unlock the Notebook
-
-This notebook uses a **Social Unlock** system. To run it:
-
-1. Open the [LinkedIn post](https://www.linkedin.com/posts/osman-o-a-ibrahim-a02a9a197_remotesensing-waterquality-googleearthengine-activity-7427338005549350912-h3jJ)
-2. **Repost** it to support the project and help it reach more people
-3. Copy the post URL from your browser
-4. Run the first code cell in the notebook and paste the URL when prompted
-
-The notebook will verify the URL and unlock automatically.
-
 ### Run
 
 Open `Merowe_Dam_Water_Quality_v3.ipynb` in Jupyter Notebook or Google Colab and run all cells sequentially.

